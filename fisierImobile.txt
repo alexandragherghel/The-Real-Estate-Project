@@ -1,0 +1,5 @@
+
+Persoana: Popa Daniel	 cu nr de telefon: 0742134675	 a inchiriat imobilul cu codul: INC11	 din data de: 01/02/2015 00:00:00	 pana in data de: 02/02/2016 00:00:00
+
+Persoana: Ionescu Ciprian	 cu nr de telefon: 0713243256	 a inchiriat imobilul cu codul: INC13	 din data de: 01/06/2020 00:00:00	 pana in data de: 01/06/2021 00:00:00
+
